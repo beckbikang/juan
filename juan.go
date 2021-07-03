@@ -13,6 +13,6 @@ func main() {
 
 func juan() {
 	times += 1
-	fmt.Printf("year:%f \n", times/BASE)
+	fmt.Printf("you are in juan year:%f \n", times/BASE)
 	juan()
 }
